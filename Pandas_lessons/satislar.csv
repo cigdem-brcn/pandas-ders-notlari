@@ -1,0 +1,29 @@
+Tarih,Urun,Kategori,Fiyat,Adet,Sehir,Odeme_Yontemi
+2024-03-01,Laptop,Elektronik,25000,1,Istanbul,Kredi Kartı
+2024-03-01,Mouse,Aksesuar,500,3,Ankara,Nakit
+2024-03-02,Monitör,Elektronik,4500,2,Izmir,Kredi Kartı
+2024-03-02,Klavye,Aksesuar,1200,1,Bursa,Havale
+2024-03-03,Laptop,Elektronik,25000,2,Istanbul,Kredi Kartı
+2024-03-03,Telefon,Elektronik,15000,1,Ankara,Nakit
+2024-03-04,Mouse,Aksesuar,500,5,Izmir,Kredi Kartı
+2024-03-04,Monitör,Elektronik,4500,1,Istanbul,Havale
+2024-03-05,Kulaklık,Aksesuar,2500,2,Bursa,Kredi Kartı
+2024-03-05,Telefon,Elektronik,16000,1,Izmir,Nakit
+2024-03-06,Laptop,Elektronik,27000,1,Ankara,Kredi Kartı
+2024-03-06,Mouse,Aksesuar,550,4,Istanbul,Havale
+2024-03-07,Klavye,Aksesuar,1300,2,Izmir,Kredi Kartı
+2024-03-07,Monitör,Elektronik,4800,1,Bursa,Nakit
+2024-03-08,Kulaklık,Aksesuar,2600,3,Istanbul,Kredi Kartı
+2024-03-08,Telefon,Elektronik,15500,2,Ankara,Havale
+2024-03-09,Laptop,Elektronik,25000,1,Izmir,Kredi Kartı
+2024-03-09,Mouse,Aksesuar,500,6,Bursa,Nakit
+2024-03-10,Klavye,Aksesuar,1200,3,Istanbul,Kredi Kartı
+2024-03-10,Monitör,Elektronik,4500,2,Ankara,Havale
+2024-03-11,Kulaklık,Aksesuar,2500,1,Izmir,Nakit
+2024-03-11,Telefon,Elektronik,16500,1,Bursa,Kredi Kartı
+2024-03-12,Laptop,Elektronik,28000,1,Istanbul,Havale
+2024-03-12,Mouse,Aksesuar,600,2,Ankara,Kredi Kartı
+2024-03-13,Monitör,Elektronik,4600,1,Izmir,Nakit
+2024-03-13,Klavye,Aksesuar,1250,4,Bursa,Kredi Kartı
+2024-03-14,Telefon,Elektronik,15000,3,Istanbul,Havale
+2024-03-14,Kulaklık,Aksesuar,2400,2,Ankara,Nakit
